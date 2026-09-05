@@ -1,0 +1,6 @@
+html, body, #root {
+  margin: 0; padding: 0; width: 100%; max-width: none;
+  text-align: left; border: none; min-height: 100vh;
+  display: block; box-sizing: border-box; font: inherit;
+}
+body { overscroll-behavior: none; }
